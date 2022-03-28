@@ -1,0 +1,200 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Abril Fatface', cursive;
+}
+
+
+.h-h .container {
+    width: 1100px;
+    margin: 0 auto;
+}
+.b-b .container {
+    width: 1100px;
+    margin: 0 auto;
+}
+.b-b .container {
+    width: 1100px;
+    margin: 0 auto;
+}
+.d-d .container {
+    width: 1100px;
+    margin: 0 auto;
+}
+.f-f .container {
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 40px;
+    background-color: rgb(209, 234, 162);
+}
+
+.text-center {
+    text-align: center;
+    color: rgb(190, 170, 229);
+    font-size: 12pt;
+    letter-spacing: 1.5px;
+    padding: 10px 0;
+}
+
+.nav {
+    width: 70%;
+    margin-left: -4px;
+    vertical-align: middle;
+}
+
+.nav ul {
+    list-style: none;
+    text-align: left;
+}
+
+.nav li {
+    display: inline-block;
+    margin: 10px 24px;
+}
+
+.nav li a {
+    color: rgb(128, 157, 209);
+    text-decoration: none;
+}
+
+.b-b {
+    background-color: rgb(242, 237, 231);
+}
+
+.name {
+    text-align: center;
+    color: rgb(190, 170, 229);
+}
+
+.slogan {
+    font-size: 26px;
+    color: rgb(233, 188, 172);
+    text-align: center;
+}
+
+.c-c {
+    background-color: rgb(242, 237, 231);
+}
+
+.section-2 {
+    text-align: center;
+    color: rgb(197, 184, 227);
+    font-size: 30px;
+    padding: 24px 0;
+}
+
+.d-d {
+    background-color: rgb(128, 157, 209);
+}
+
+.card {
+    padding: 40px 0;
+}
+.card-1 {
+    width: 30%;
+    display: inline-block;
+    margin: 0 1%;
+}
+
+.card-1 img {
+    width: 100%;
+}
+.best-1 {
+    text-align: center;
+    color: rgb(233, 188, 172);
+    padding: 24px 0;
+}
+.e-e {
+    background-color: rgb(242, 237, 231);
+}
+.f-f {
+    background-color: rgb(255, 255, 255);
+}
+.cardd {
+    padding: 40px 0;
+}
+.card-2 {
+    width: 30%;
+    display: inline-block;
+    margin: 0 1%;
+}
+.card-2 img {
+    width: 100%;
+}
+.g-g {
+    background-color: rgb(242, 237, 231);
+}
+.think-1 {
+    text-align: center;
+    color: rgb(128, 157, 209);
+}
+.think-1 h1 {
+    padding: 24px 0;
+}
+
+.h-h {
+    background-color: rgb(242, 237, 231);
+}
+.carddd {
+    padding: 40px 0;
+    text-align: center;
+}
+.card-3 {
+    width: 20%;
+    display: inline-block;
+    margin: 0 1%;
+}
+
+.card-3 img {
+    width: 100%;
+}
+
+.footer {
+    padding: 20px 50px;
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(209, 234, 162);
+}
+.footer ul {
+    list-style: none;
+    padding: 0;
+} 
+.footer li a {
+    color: rgb(128, 157, 209);
+    font-size: 12pt;
+    padding: 24px 0;
+    text-decoration: none;
+}
+.info-1 ul{
+    margin: 10px 90px;
+}   
+
+
+    
+
+
+
+     
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
